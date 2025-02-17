@@ -12,5 +12,5 @@ Am evaluat modelul prin calcularea FID-ului (Frechet Inception Distance) si a lo
 
 | Image Shape | Learning Rate | Batch Size | Epochs | Loss          |
 |-------------|---------------|------------|--------|---------------|
-| 128x128x3   | 1e-5          | 128        | 10     | ![Loss2](https://github.com/LauraDiosan-CS/projects-almoststablediffusion/blob/main/doc/images/loss2.png) |
-| 256x256x3   | 1e-5          | 64         | 12     | ![Loss3](https://github.com/LauraDiosan-CS/projects-almoststablediffusion/blob/main/doc/images/loss1.png) |
+| 128x128x3   | 1e-5          | 128        | 10     | ![Loss1](https://github.com/DariaSavu/ControlNet_with_StableDiffusion/blob/main/loss2.png)|
+| 256x256x3   | 1e-5          | 64         | 12     | ![Loss2](https://github.com/DariaSavu/ControlNet_with_StableDiffusion/blob/main/loss1.png)|
