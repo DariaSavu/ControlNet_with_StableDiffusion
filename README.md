@@ -1,12 +1,3 @@
-# DreamScape
-## Make your ideas come to life
-## Echipa
-Răstoacă Nicolae Sergiu
-
-Savu Daria Maria
-
-Stan Adrian Valentin
-
 ## Scopul proiectului
 Prin acest proiect ne-am propus sa evaluam un model de stable diffusion la care au fost adaugate blocuri de control conditional pentru un task specializat- generarea imaginilor de design interior.
 Ne-am folosit de modele preantrenate, bazate pe stable diffusion 1.5, in care imaginile de control erau cu segmentarea semantica a imaginii originale sau cu edge-urile acesteia.
